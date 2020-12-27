@@ -1,0 +1,361 @@
+sal_id,sal_name,area_served,taxonomy_of_services,location_id,latitude,longitude,eligibility_criteria,ages,schedule_by_day,schedule_freq,schedule_interval,time_opens_at
+fadbca83-bb65-4917-9a80-35e20d516826,'@symes Community Building,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+5439d5d1-b4a5-4d0a-a6b0-62905bafc72f,'Changes' over 55's Wellbeing group - Whitehall/St George,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,94b587df-0bae-4d04-9c3a-4489b88ac9b3,51.4636,-2.55032,['age'],"[[65.0, 100.0]]",MO,weekly,1,11:00:00
+358c2720-3192-4648-99d5-244529fb2023,'Young at Heart' - Hanham,n/a,,80b26ab3-f5ad-48eb-96a5-c9dedc3b3f0c,51.4484,-2.51487,['age'],"[[65.0, 100.0]]",TH,weekly,1,13:30:00
+3d05c16a-cb84-4897-8624-e8abcd804988,12 WEEK REIKI LEVEL 1 COURSE - BRISTOL,n/a,,10a77516-d175-47d8-b002-b0ea8a5a60a2,51.4642234,-2.582632,['age'],"[[18.0, 100.0]]",TU,weekly,1,18:15:00
+2a3483ea-8966-4f50-9dc3-7bafa1e5c623,1625 Independent People,n/a,Disabled;Homeless;Housing support;Improving mental health;Skills for living;Homelessness support,n/a,n/a,n/a,['age'],"[[16.0, 25.0]]",n/a,n/a,n/a,n/a
+6aafbf87-196a-459d-bb71-f0ccd160f71c,1625 Independent People (Bristol),n/a,Chronically ill;Residential care;Disabilities and special needs support;Housing support;Dealing with chronic illness;Residential care;Somewhere to live;Sheltered housing,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3c26e351-b57e-4baf-96d9-5f5e725a1693,1625 Independent People (S.Glos),n/a,Chronically ill;Residential care;Disabilities and special needs support;Housing support;Dealing with chronic illness;Residential care;Somewhere to live;Sheltered housing,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+c3e4447b-0580-43ed-814b-3c8385bc1120,1625 Independent People - St George's House,n/a,Chronically ill;Residential care;Disabilities and special needs support;Housing support;Dealing with chronic illness;Residential care;Somewhere to live;Sheltered housing,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ee737718-eae2-4501-9def-3dcab9a9db42,1st Choice Stairlifts,n/a,Disabled;Special educational needs (SEN);Care at home;Specialist equipment for disabled people,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+836e14f9-5e45-46f8-99bc-eb810036ad67,25% ME GROUP,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+17105d9f-987e-4046-89db-18123df1259c,2nd Chance Project,n/a,Leaving prison;Veteran;Unemployed;Employment;Training and skills;Digital skills;Employment and training initiatives,n/a,n/a,n/a,['age'],"[[13.0, 18.0]]",n/a,n/a,n/a,n/a
+67f34e3d-7639-444a-9a77-acfa9c2c9875,3 Trees Community Support Ltd,n/a,Chronically ill;Residential care;Disabilities and special needs support;Help with care;Parenting support;Housing support;Dealing with chronic illness;Residential care;Somewhere to live;Sheltered housing;Respite care for adults;Short breaks,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+eeca5b7f-76e7-4a21-a56f-a39d5e587c9e,344 Dance School,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+880b4606-54a3-475d-826d-c7ee35f08180,5678 School Of Dance,n/a,,2f916e98-dff7-405e-b2da-d9adbdc4e0ab,51.5278298,-2.4988395,[],[],TU,weekly,1,15:00:00
+d08b03d4-4b22-42b6-8172-2dd1d58a0164,5678 School Of Dance,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+be06d3ee-65cb-406c-ab94-c3160da25078,57 Wargames Society,n/a,,84aa203d-a898-402f-914e-003de5e13775,51.4904072,-2.5102364,['age'],"[[18.0, 100.0]]",SU,weekly,1,15:00:00
+deaade5a-bc13-416f-9462-392954ed5eeb,91 Ways to Build a City,n/a,Hobby and interest classes and groups;Social clubs and groups,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+21676595-7bae-45dc-ae2a-65e6fd48f761,A Carpet Cleaning Service,n/a,Home and garden care and maintenance,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+d074aac0-3dfc-48ba-b02c-007a4a1d94b5,A Clean Sweep Co-operative Ltd,n/a,Home and garden care and maintenance,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3121dd2f-3900-4c90-b529-4c265f026d6f,A Picture of Health,n/a,Disabled;Special educational needs (SEN);Care at home;Specialist equipment for disabled people,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+bd56fac4-0fad-4c86-bd1f-383e03b432d7,A.I PROPERTY SERVICES,n/a,Home and garden care and maintenance,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+c5790dc6-5fad-426a-80ce-31a6a316218f,A2i Transcription Services Ltd,n/a,Disabled;Special educational needs (SEN);Care at home;Specialist equipment for disabled people,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+e2757a59-1c4b-4a3d-8032-cf898d9bef6a,AA Meeting - Discussion Group,n/a,,c7541070-ab5e-423b-a8f0-c6b0e7d8615c,51.463252,-2.55083,['age'],"[[18.0, 100.0]]",TU,weekly,1,20:00:00
+aba0e762-f56f-4686-be43-c50bbb7035f4,AA Professional Cleaning,n/a,Home and garden care and maintenance,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+7c87c5e0-f837-42bc-9b2b-03a3bee0011d,Aashyana Housing Association,n/a,Financial difficulties;In debt;Leaving prison;Low income;Unemployed;Financial support;Emotional wellbeing;Benefits advice and assessment,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+bb5dd979-68e5-4d6b-8020-58b28570a7cb,Abbeyfield Bristol and Keynsham Society,n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+876e1a1a-69a2-42fc-8e5d-7ec03f687839,Abbotswood Action Group,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+81c77b15-98f9-45db-ad70-c726b3b13880,Abbotswood Surgery (part of the Leap Valley group),n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3f4b8cf4-13f3-4502-922d-eb735d0a187d,Ability Magazine,n/a,Library computers and the internet,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ba10ac19-5648-4149-ae7f-12464358b897,Ability Superstore,n/a,Disabled;Special educational needs (SEN);Care at home;Specialist equipment for disabled people,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+d25b256b-0273-4959-9645-afc1d3451ce9,Ablaze,n/a,Retired;Unemployed;Volunteering,n/a,n/a,n/a,['age'],"[[13.0, 18.0]]",n/a,n/a,n/a,n/a
+3545f225-264c-4f55-bb56-449d549f0a7f,Able Community Care,n/a,Chronically ill;Dealing with chronic illness;Care at home;Care at home,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+86539010-a675-450b-af6c-3ccb3d27c118,AbleCare Homes - Head Office,n/a,Chronically ill;Residential care;Dealing with chronic illness;Nursing care;Residential care;Somewhere to live;Adult residential care,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+b4351779-4301-438e-9329-e2d337c76d89,ABLEize Disability and Special Needs,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+60cafaea-88e6-4e56-9af8-87f4ee1bf7d0,Abortion Rights,n/a,Health support groups and organisations,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+9fd4a653-ce66-4029-8b09-9b0c3dd53e53,ACAS - South West Region,n/a,Business;Business advice,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+521aa323-4968-4edd-9453-cb53e0ebb796,Acceptance,n/a,Lonely;Parent;Parenting support;Family support groups,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+321d6de1-ce1b-4c84-b279-b47352ffdbd9,Access Able,n/a,Chronically ill;Disabled;Disabilities and special needs support;Dealing with chronic illness;Care at home;Home adaptatations and aids,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+6b3c70b3-8795-427e-b4f7-98d67959d7c8,Accessibility,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+f9d815fa-ee04-4b9c-ba3d-980accde2c1c,Accessible Property Register,n/a,Disabled;Lonely;Disabilities and special needs support;Accessibility of local facilities,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+67550698-8e77-4c00-9228-79e2a01b4b53,Accessible Transport 4 U,n/a,Disabled;Lonely;Non-car driver;Emotional wellbeing;Accessible transport;Community transport,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+2548ed53-0fea-4e57-9d41-5f908741e914,Accessible Transport 4 U (Buckets n Spades),n/a,Disabled;Lonely;Non-car driver;Emotional wellbeing;Accessible transport;Community transport,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+953b5d9c-75eb-4913-b015-604eedb90d7a,Accessible Transport 4 U (The Wheel 2 Learn),n/a,Disabled;Lonely;Non-car driver;Emotional wellbeing;Accessible transport;Community transport,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+3d15d4f6-eaf8-442b-a44a-655f2a2afd12,Accessible Travel and Leisure,n/a,Disabled;Lonely;Disabilities and special needs support;Accessibility of local facilities,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+bdfbeb62-3fa0-401b-bbde-9e93c30a4938,ACE Education Advice & Training,n/a,Leaving prison;Veteran;Unemployed;Employment;Training and skills;Digital skills;Employment and training initiatives,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+c64f756c-0a5b-4c53-ad06-f2c474518e99,ACE Neighbours project,n/a,Social clubs and groups,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+2f8964f7-5b21-4101-9d8a-7a7eb2e3bf60,ACE Wellbeing Space,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,088f8c90-c826-4b11-b663-2d2bcd6ca860,51.42687601,-2.613592392,['age'],"[[18.0, 100.0]]",,n/a,1,13:30:00
+c14c5bd7-e408-4fae-ab67-174dc4deeb9f,ACH,n/a,Asylum seeker or refugee;Somewhere to live;Language/cultural support;Asylum seekers support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+6dc04f91-861f-461a-82be-6dfbd1cff645,Acoustic Arts,n/a,Lonely;Evening classes;Hobbies and interests;Arts  and creative classes,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+40b8fe83-8b5a-46d2-9c93-9bdeb0adcb99,ACTA Community Theatre,n/a,Lonely;Hobbies and interests;Arts organisations and events,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+0e26695d-2d7b-4b00-8f10-6ca35ed7a36f,Action Against Allergy,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+5fbc70d9-645c-431b-adc0-bf1567d5559a,Action against Medical Accidents,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+e88c1420-4d24-4b43-aa31-f08f018e5a35,Action for Children South West,n/a,Lonely;Parent;Parenting support;Family support groups,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+07b64e72-6d8c-46f5-bd8f-13eb0e60ff58,"Action for Dystonia, Diagnosis, Education and Research",n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+891ad974-3710-4dee-9076-eaccbc85cc9b,Action for M.E,n/a,,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+e96ef720-db51-41f8-bfd0-ff26ac2ff9fa,Action for Sick Children,n/a,Lonely;Parent;Parenting support;Family support groups,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+04113008-5abe-4cd8-9bb0-7a54c842064e,Action Fraud,n/a,Financial advice and support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+1db24a21-4e5e-49a7-8a86-55145a5edff2,Action on Hearing Loss,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+a58a6691-c70d-4e99-b503-523dd31918d9,Action on Pain,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+2c1ee44c-2032-428f-a101-485a4a36c612,Action Potential,n/a,Alternative therapies and treatments;Physiotherapy,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+f1d7737d-6a59-4db4-b6f2-453ac157df24,Actionwork,n/a,Lonely;Equality;Hobbies and interests;Equality and diversity;Arts organisations and events,n/a,n/a,n/a,['age'],"[[13.0, 18.0]]",n/a,n/a,n/a,n/a
+157c3f6f-fb31-4d06-af41-cfa39c6c2673,Active Ageing Bristol,n/a,Lonely;Obese or overweight;Unemployed;Better health;Sports and physical activity;Legal advice;Sports club directory,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+9c4b1a39-25cd-4e3b-a1d8-7905503fe139,Active Centres - Sessions for People with Disabilities,n/a,Lonely;Retired;Evening classes;Better health;Losing weight/Healthy eating;Sports and physical activity;Exercise and fitness classes,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+87a8796e-0718-48ea-a6b1-fa9af566eeab,Active Choices,n/a,Lonely;Retired;Evening classes;Better health;Losing weight/Healthy eating;Sports and physical activity;Exercise and fitness classes,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+d613a087-9c6c-4c8c-bce6-fe6b9dd4cc73,Active Minds (Dementia resources),n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+9118121f-4670-48ad-ae54-dc2b44863130,Active Together for Dementia,n/a,Lonely;Retired;Evening classes;Better health;Losing weight/Healthy eating;Sports and physical activity;Exercise and fitness classes,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+d9ae1e9f-e15d-4aa7-8a81-bbdd81570eb1,Acupuncture Fishponds,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+983884df-7aec-440e-aa6d-dc4b45623636,Adapted Vehicle Hire Ltd,n/a,Disabled;Special educational needs (SEN);Care at home;Specialist equipment for disabled people,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+4d609630-46e1-41c1-82f9-dc567773d7de,Adaptive Yoga at Zion,n/a,Lonely;Retired;Evening classes;Better health;Losing weight/Healthy eating;Sports and physical activity;Exercise and fitness classes,9fc7f427-6fcb-41fe-bc37-513d31659805,51.4264634,-2.6137923,[],[],MO,weekly,1,15:30:00
+95e594bc-3c2b-4c17-8a96-f0d97c84c043,Addaction,n/a,Alcohol abuser;Drug user;Better health;Dealing with substance abuse;Alcohol advice and support;Drugs advice and support,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+2eb46b93-1dd4-4ab6-abf2-9d5065c2580d,Addiction Recovery Agency,n/a,Alcohol abuser;Drug user;Better health;Dealing with substance abuse;Alcohol advice and support;Drugs advice and support,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+e5d43efe-cf41-499f-90e2-0c8273461432,Adoption West - Adoption,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+457fcbfd-9ca9-4ef5-92a2-407b40860cd4,Adorno Companions,n/a,,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+eda86de0-d393-4822-9564-9bc7551a2faa,Adult Improvers Sewing Group,n/a,Lonely;Evening classes;Hobbies and interests;Arts  and creative classes,2337b60b-dc25-4630-94b5-42c6cc2521ef,51.4771,-2.59041,"['age', 'age', 'age']","[[18.0, 100.0], [65.0, 100.0], [13.0, 18.0]]",MO,weekly,1,10:30:00
+5877ca38-b577-4732-9650-6301a9628d7c,Adult Supper Club Fundraiser 1st sitting,n/a,Social clubs and groups,536ff756-85d2-4cd8-a674-047b9040134b,51.4773824,-2.5902855,"['age', 'age', 'age']","[[18.0, 100.0], [65.0, 100.0], [13.0, 18.0]]",,n/a,1,19:00:00
+d1d115c7-e509-467b-9dfb-18f0077fa5e8,Adult Supper Club Fundraiser 2nd sitting,n/a,Social clubs and groups,536ff756-85d2-4cd8-a674-047b9040134b,51.4773824,-2.5902855,"['age', 'age', 'age']","[[18.0, 100.0], [65.0, 100.0], [13.0, 18.0]]",,n/a,1,20:45:00
+5b267f97-9051-425b-90f0-6e1cfb45e0ce,Adult's Arts and Crafts,n/a,,0ed0b0cf-1680-4533-80b9-0c142ee79d81,51.4619335,-2.5002918,['age'],"[[18.0, 100.0]]",WE,weekly,1,10:00:00
+7abf2f79-685c-466f-b8b2-a4b644c3f0b7,Advance,n/a,Disabled;Leaving prison;Veteran;Unemployed;Employment;Training and skills;Digital skills;Improving mental health;Employment and training initiatives;Skills for living,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+1f401c55-c323-41a2-bf19-7b0f418b6e91,Advance Centre for The Scotson Technique,n/a,Alternative therapies and treatments,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8017f4f5-260a-42ed-86db-b46639469ec2,Advantex Cleaning,n/a,Home and garden care and maintenance,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+88f0b5b0-9014-431b-957d-d0e2bb06d070,Adventure Playgrounds,n/a,Open spaces;Community facilities;Outdoor play facilities,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+f94be721-7da3-42da-8745-9b1cf1724ade,Adventurous Activity Company,n/a,Lonely;Retired;Open spaces;Better health;Losing weight/Healthy eating;Sports and physical activity;Outdoor activities,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+2b59c02d-b074-4fbe-9d90-1522d7745ecd,Advice & Information Session,n/a,,ef779c4d-fde8-475a-a662-4b2692dda349,51.4462505,-2.4837134,[],[],MO,weekly,1,10:00:00
+7ffe2ba1-25a6-4640-b6aa-453a913a7e50,Advice Centre in the Students' Union at UWE,n/a,Youth support;Emotional wellbeing;Advice for young people,n/a,n/a,n/a,['age'],"[[13.0, 18.0]]",n/a,n/a,n/a,n/a
+b127704e-1bb3-44ba-870a-b411dc6f61d1,Advicenow,n/a,Unemployed;Legal advice,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+40aac941-cf6a-4171-9933-05d650bf322c,AdviceUK,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+b7ebc7ad-3adc-45d3-a527-7500219bba3b,African Caribbean Leukaemia Trust,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+b8ddf3b1-9aff-4f9b-b090-11e668b83234,African Initiatives,n/a,Retired;Unemployed;Volunteering;Hobby and interest classes and groups,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+6750a557-ca74-4bb0-9961-b6687beaf09e,Against Breast Cancer,n/a,Health support groups and organisations,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+9242eb6a-c68f-408e-b14c-fef342caa236,Age Friendly Streets,n/a,Social clubs and groups,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ce0409d1-0d41-4d33-8e1b-fe0a1171290b,Age UK,n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+95de2929-9477-4b3e-801e-6608d8772b3f,Age UK  Products,n/a,Disabled;Tourist or visitor;Special educational needs (SEN);Care at home;Specialist equipment for disabled people;Tourist accommodation;Financial advice and support,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+7210ff18-827d-4156-b549-4b02ba46d6ed,Age UK Bristol,n/a,Financial difficulties;In debt;Leaving prison;Low income;Unemployed;Financial support;Emotional wellbeing;Benefits advice and assessment;Legal advice;Health support groups and organisations,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+2063cdf1-5279-4769-87ad-aa353095aaac,Age UK Personal Alarms,n/a,Chronically ill;Disabled;Dealing with chronic illness;Care at home;Emotional wellbeing;Community alarms and Telecare,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+28dc4e5c-7902-4588-87a7-573e0df6d1b1,Age UK South Gloucestershire,n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+cc6503d1-c0e5-4695-a224-9423003f4716,Age UK South Gloucestershire - Activity Day Centre,n/a,Chronically ill;Disabled;Lonely;Emotional wellbeing;Community facilities;Day centres,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+2f22272a-cb5f-4b67-bc42-09b45c817b8e,Agincare Live-in Care,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+bd9fff64-5a24-4422-b617-786eb567467d,Agincare UK - Bristol,n/a,Chronically ill;Dealing with chronic illness;Care at home;Care at home,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+93dd4f13-8119-4f9e-9859-90d0896ebe82,Agylia Care,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+e858edee-7d7a-40c4-93f4-b068ba904429,Air Balloon Surgery,n/a,GP's and surgeries,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+45561f02-a215-44f0-b799-d85f189d4baa,AJT Garden Services,n/a,Home and garden care and maintenance,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+80095ccf-6bea-47f0-940f-81b45c3f3e6a,Al Anon Group,n/a,,29383cb9-a0a4-4e00-810e-e5c0314f8493,51.6065,-2.524,[],[],TH,weekly,1,19:45:00
+f8e9a6a3-f4d2-4e58-850d-f20302fae2e7,Al-Anon Family Groups,n/a,Alcohol abuser;Better health;Dealing with substance abuse;Alcohol advice and support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+27266d8f-9f3a-4a25-b69b-244aeb65e2ed,Alcohol Concern,n/a,Alcohol abuser;Better health;Dealing with substance abuse;Alcohol advice and support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+26c46075-3055-408e-828a-7d47639d9094,Alcoholics Anonymous - Bristol,n/a,Alcohol abuser;Better health;Dealing with substance abuse;Alcohol advice and support,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+68ee3c35-86ad-4472-909a-112d082b02b6,Alcoholics Anonymous - Kingswood,n/a,,c91e5669-b914-46c1-a48a-623d17b1f622,51.4623468,-2.5045981,['age'],"[[18.0, 100.0]]",TU,weekly,1,19:30:00
+e330f637-1308-460e-bf50-3f2330d39763,Alcoholics Anonymous Bristol Telephone Service,n/a,Alcohol abuser;Better health;Dealing with substance abuse;Alcohol advice and support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+2afd28d9-243e-44f3-93e9-fb58dcde6b53,Alef Care,n/a,,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+5f3c5c6d-c67d-4424-8907-0cdb902aee5e,Alert,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+46e181bd-2446-4395-a631-e660e557c869,"Alex, The Leukodystrophy Charity",n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+4b9b251d-d59c-4bf5-9379-ed3e0dc0a875,Alexander Technique Southville and Clifton,n/a,Alternative therapies and treatments,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+ce4b3a10-565e-4077-9511-4d4a6215151f,Alexandra House,n/a,Chronically ill;Residential care;Dealing with chronic illness;Nursing care;Residential care;Somewhere to live;Adult residential care,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+258e345b-b835-4fbf-b256-5e42f02ddee5,Alexandra Way Residential Care Home,n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+2acc9623-6f68-4c8c-b3a6-f0e0c07d57d6,Alice Kilvert Tampon Alert,n/a,Health support groups and organisations,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+78960e66-a640-4948-be0c-8925875382e4,AliMo Care Ltd,n/a,Chronically ill;Dealing with chronic illness;Care at home;Care at home,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+25492df4-37f2-44de-bbe4-f7cb28adb9dd,Alisa Fox,n/a,Alternative therapies and treatments,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+b3a28d6d-03c3-4b75-ac5d-cd37bd6b16f2,Alison Johnson Mobile Hairdressing,n/a,Personal care,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+9070d32c-09b4-401c-ada0-4edcf2bcdf35,Alive,n/a,Social clubs and groups,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+c8adb669-c890-45c3-89b8-652beed49ba0,Alive - Growing Support,n/a,Lonely;Retired;Open spaces;Better health;Losing weight/Healthy eating;Sports and physical activity;Outdoor activities,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+198c2597-a81c-4605-aefa-dc48edc23dc2,Alive - Growing Support Workshops,n/a,Retired;Unemployed;Volunteering,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+afae8cf8-55b4-422a-8a72-8173d22b572b,Alive Clubs,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+47ad8116-e324-4b39-9382-f0e409b1af29,Alive! Clubs,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+5a3d4545-d701-409e-9e38-60ddaf8d303d,All Aboard,n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+94803b4a-147d-4bf3-864b-8706011c73ba,All Clean and Pristine,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+b27e5353-ac8d-4b29-9455-50efd501a9b0,All Saints Church Lands Charity,n/a,Chronically ill;Residential care;Disabilities and special needs support;Housing support;Dealing with chronic illness;Residential care;Somewhere to live;Sheltered housing,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+f992b2fa-9935-4154-91a8-ebe19ef21073,All-Aboard Water Sports,n/a,Lonely;Obese or overweight;Better health;Sports and physical activity;Community facilities;Hobbies and interests;Swimming pools,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+c4b9728d-2340-4870-b252-91cdd1f60f7d,All-Aboard Water Sports - Come on Board,n/a,Lonely;Obese or overweight;Better health;Sports and physical activity;Sports club directory,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+1df80da9-cf7c-45b5-b25f-5b7e6e810478,All-Aboard Watersports,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+73706396-16f7-45b2-97c8-1dc1336fb2c2,Allen Lane Foundation,n/a,Financial advice and support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+4652aa89-2e1c-4ad0-9a58-4db397c9487e,Allergy Test UK,n/a,Alternative therapies and treatments,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+5b4c45b7-9a0b-4be0-865d-6d4ef0966e32,Alliance for Inclusive Education,n/a,Disabled;Special educational needs (SEN);Care at home;Specialist equipment for disabled people,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+d48ddf4d-b8cb-4731-b623-d463c0292516,Allsorts Knitting Group (Wick Road),n/a,Lonely;Evening classes;Hobbies and interests;Arts  and creative classes,3b3b35db-4dde-49c2-8352-ca67d2a6d0f4,51.43937839,-2.5516579,['age'],"[[65.0, 100.0]]",TU,weekly,1,14:00:00
+bdb9cd8b-6e07-4bc3-872d-672be3a817f9,Almondsbury Dental  Practice,n/a,Dental surgeries,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+616fa5a6-dc4c-4c8b-82d8-2bb27b42487f,Almondsbury Surgery,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+18578115-268e-4b7d-8ea9-9d3eedfa379d,Alpha Garden Team,n/a,Home and garden care and maintenance,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+bd5fb2dd-9b64-4760-958e-a06c0c5dee8e,AlphaMed Home Delivery Service,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+942125ff-215b-4457-8c39-e2f57bfc36f9,Alpine Landscaping,n/a,,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+bedf7090-49ec-4399-9eb4-c9edb7f2a066,Alstrom Syndrome UK,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+f8361dbb-7952-4808-98c0-da4ea2d55b28,Alternating Hemiplegia of Childhood,n/a,,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+47210525-5c16-4bd2-8df9-a05d484fcacd,Alternative Housing,n/a,Disabled;Homeless;Leaving care;Mental illness;Non-decent home;Private tenant;Retired;Unemployed;Housing support;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Somewhere to live;Volunteering;Mental health support;Hostels and emergency accommodation;Private housing advice,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+e25d8aac-c507-4f82-b65a-0c80bee47491,Alzheimer's Cafe,n/a,Disabled;Looked after child;Mental illness;Help with care;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support;Carers support groups;Social clubs and groups,2062d839-7439-455c-b9d2-51836629db41,51.4836,-2.61731,['age'],"[[65.0, 100.0]]",,n/a,1,16:00:00
+78eefd3e-edc5-4a55-9d25-3cf426ad4eb0,Alzheimer's Society - Bristol and South Gloucestershire,n/a,Health support groups and organisations,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+5665b038-6d4e-4469-8e23-c68a52101773,Ambience Grounds Maintenance,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+36904fbd-eebc-4178-a5b5-f6964b534851,Ambition 24 Direct,n/a,Chronically ill;Dealing with chronic illness;Care at home;Care at home,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ae97e077-0c60-4ae5-953a-9ca946e7557c,Ambition Lawrence Weston,n/a,Community engagement,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+2804ae14-5c53-4d80-89e1-1803813f37dc,Amelia Davies Osteopathy,n/a,Alternative therapies and treatments,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+314a6d19-77da-4c12-80b3-af2ce4f5ce53,Amelia Nutt Clinic,n/a,Alternative therapies and treatments,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+e0dacee1-85dd-495e-b580-c24dffe98620,Amitabha Buddhist Centre,n/a,Faith organisations and services,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+8a07e69a-385c-45fa-a099-b65945597742,AMN Easier,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+e8ebd107-bd1c-4457-94c7-fd78cd1da186,Amnesty International,n/a,Equality;Equality and diversity,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+67640753-1048-42fc-a60f-21d614871562,Amy Winehouse Foundation,n/a,Grants for voluntary organisations,n/a,n/a,n/a,['age'],"[[13.0, 18.0]]",n/a,n/a,n/a,n/a
+47fa4986-22e1-4094-bdff-634a6e83183f,Andrew Pinn Optometrist,n/a,Opticians and optometrists,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8197275e-d12d-47cb-ac82-91b2dc84f5ce,Angel Care Support Limited,n/a,Chronically ill;Dealing with chronic illness;Care at home;Care at home,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+b70583b5-68d2-4b6e-bdf7-cc2f482db228,Angie's cleaning solutions,n/a,Home and garden care and maintenance,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3151d125-5680-414b-aae0-e16e7bf5919c,Anglo Polish Society,n/a,Social clubs and groups;Financial advice and support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ac7e1301-a820-4196-b250-2e3260cf4724,Animal Care Pilots,n/a,,c016a60d-b73d-43f3-880c-86c5dcf95359,51.4743349,-2.5782801,['age'],"[[13.0, 18.0]]",TU,weekly,1,09:00:00
+59955d2c-bf7c-4889-9054-b50507ccb457,Aniridia Network,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+0534b636-5e16-4cfa-90de-3a2be51560c7,Annie Robinson Counselling,n/a,Gambling addict;Mental illness;Separated;Access to advocacy;Improving mental health;Emotional wellbeing;Counselling,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+12b4a014-451a-45ab-911d-ae74ae943aba,Anorexia and Bulimia Care,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+c0d739cf-f0b9-4eab-89e7-a6bf9b2a6f01,Anxiety UK,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+930ba957-127c-448d-9b20-f5dcfca890ca,Anything Left Handed,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+1f5ba982-4a75-4170-be97-495362853ff1,Apollo Cleaning Solutions,n/a,Home and garden care and maintenance,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+40814496-d39d-4774-b2b8-541d4cd4cbfe,Apple Dental Practice,n/a,Dental surgeries,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+fb226ba4-0242-4b29-92f1-bb0dd86e4105,APRIL,n/a,Drug user;Better health;Dealing with substance abuse;Drugs advice and support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+b3ba3aef-9185-4f14-a1dc-92629bf07a89,APS Support Uk - for people with Antiphospholipid syndrome,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+c441b2f0-d655-4bad-a88c-73c81a17080c,Aqua Rehabilitation Sessions,n/a,,f3d5ae68-de06-40bf-b858-f92790a483dc,51.4134575,-2.584818,"['age', 'age']","[[18.0, 100.0], [65.0, 100.0]]",MO,weekly,1,12:00:00
+68bd4170-bbd3-4698-ac31-6b6d9e4752a5,Aquatic Harmony Bristol & North Somerset,n/a,Lonely;Obese or overweight;Better health;Sports and physical activity;Community facilities;Hobbies and interests;Swimming pools,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8e7b4fed-6a85-4257-996c-71e4946cdbb7,ARC,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+9a62bd5d-084a-4687-acd5-43c79ba1a8eb,Architects Benevolent Society,n/a,Financial advice and support,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+d350bfac-8e5a-42ae-8ecd-83b08895e444,Ardagh Bowling & Sports Club,n/a,Lonely;Obese or overweight;Better health;Sports and physical activity;Sports club directory,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+79d5e972-52d1-4d9d-b3ab-18fadb8ec364,Armada Family Practice,n/a,GP's and surgeries,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+12c9b7f6-2ec3-4470-befc-44d9042ac3cf,Armadillo Yate Youth Cafe,n/a,,n/a,n/a,n/a,['age'],"[[13.0, 18.0]]",n/a,n/a,n/a,n/a
+ff0a7346-a1f2-45cc-94ef-9fee03843050,Armstrong and North Opticians - Filton,n/a,Alternative therapies and treatments,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+24b8cc97-b2fc-4c0e-a37e-5ed5fcf593d6,Armstrong and North Opticians - Thornbury,n/a,Alternative therapies and treatments,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8df39db6-5cae-4e62-83f5-f87e49795ab9,Armstrong and North Opticians - Yate,n/a,Alternative therapies and treatments,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+9297b67a-924e-4b76-aca9-94da3e9c6edc,Armstrong and North Opticians Chipping Sodbury,n/a,Alternative therapies and treatments,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+74c89e2b-7db7-443f-b8a1-41cb6f1dc375,Armstrong Hall Complex,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+a2d7d42f-76d1-4387-a61b-dd889982a9ca,Army Benevolent Fund,n/a,Financial difficulties;In debt;Leaving prison;Low income;Unemployed;Financial support;Emotional wellbeing;Welfare rights advice,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+cab2416f-a326-4c02-b0c9-68adc3196938,Arnos Vale Cemetery Trust,n/a,Retired;Unemployed;Volunteering,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+49c287b1-7346-43d2-9899-162a6f98590e,Art Ease Group,n/a,Lonely;Evening classes;Hobbies and interests;Arts  and creative classes,68c2e098-ba63-421d-a61a-56dc872a37ba,51.4288,-2.59625,['age'],"[[18.0, 100.0]]",TU,weekly,1,09:45:00
+a4d2174e-6668-45db-85e9-ab1d4c4576b8,Art group Avonmouth,n/a,Lonely;Evening classes;Hobbies and interests;Arts  and creative classes,6f14692c-1c09-47cb-a932-21611e4e5aa3,51.5001993,-2.6983326,[],[],WE,weekly,1,14:00:00
+fbf6fe51-e464-4534-a5b5-40f1dde8b8ac,Art Refuge UK,n/a,Asylum seeker or refugee;Lonely;Evening classes;Somewhere to live;Hobbies and interests;Language/cultural support;Asylum seekers support;Arts  and creative classes,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+84c20e10-8ea6-4183-8b3a-a8126c3c8e89,Arthritis Action,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+85090f87-cbc6-4a1c-8414-7304d591f02d,Arthritis and Musculoskeletal Alliance,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+647e925d-0f4d-4fa8-b3b7-2789384ccf26,Arthritis Care - Bristol,n/a,Library computers and the internet,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+a3306ae7-8e3a-4f52-b70f-1d6068d9ea0f,Arthritis Research UK,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+d670a46a-44fa-4172-a958-9ad7b89b182c,Arthrogryposis Group,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+73daa546-6512-4cda-98a5-aba8745b4059,Arts and Crafts Group for Over 50s – Henbury and Brentry,n/a,,b3a7e26f-59f3-4593-aa44-319939525263,51.5096445,-2.6207992,['age'],"[[65.0, 100.0]]",FR,weekly,1,10:30:00
+97b77eb1-8d43-4d1e-9dcf-76b8a99c9c3d,Asbestos Information Centre,n/a,Asbestos management,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+9168263d-b4be-48d0-8007-18ce432c8991,Ash Close Retirement Housing,n/a,Chronically ill;Residential care;Disabilities and special needs support;Housing support;Dealing with chronic illness;Residential care;Somewhere to live;Sheltered housing,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3ce1464f-cb3e-45e6-82ea-ba90108ec340,Ash View House Care Home,n/a,Chronically ill;Residential care;Dealing with chronic illness;Nursing care;Residential care;Somewhere to live;Adult residential care,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+2e69419c-7fec-4ca9-8a64-47930dc8a2db,Ashton Court Estate,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8839e1a7-a2b3-4e72-b833-38965d062d14,Ashton Education Centre,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ccf1be62-4076-4bbc-aea6-33091dd3d236,Ashton Park Sports Centre,n/a,Lonely;Obese or overweight;Better health;Losing weight/Healthy eating;Sports and physical activity;Community facilities;Hobbies and interests;Sports facilities,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ca4bf801-d123-412d-b858-5699c5797972,Asian Arts Agency,n/a,Lonely;Hobbies and interests;Arts organisations and events,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8e41f8a0-05ff-4d15-bba4-ad8ba6ff6004,Asian Carers Group,n/a,Looked after child;Help with care;Carers support groups,c376a9b1-f180-4c64-8e94-f8d1965a85cd,51.4563,-2.56366,[],[],,n/a,1,00:00:00
+3c3a0543-b3e3-4ad0-b98f-ef0ec4c8de4d,Asian Day Centre (aka Asian Health and Social Care Association),n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+f75e12a3-3f3f-4ccd-ae23-de0ee3d06112,Ask Us,n/a,Financial difficulties;In debt;Leaving prison;Low income;Unemployed;Financial support;Emotional wellbeing;Welfare rights advice,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ac4565c5-7a0a-48dc-b397-d04df4b85061,AskSARA,n/a,Chronically ill;Disabled;Disabilities and special needs support;Dealing with chronic illness;Care at home;Home adaptatations and aids,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3040e5dc-0231-4dc1-91a4-43d0ab83cecd,ASLTIP - Association of Speech and Language Therapists,n/a,"Special educational needs (SEN);Disabilities and special needs support;Speech, language and communication therapy",n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+2073f6cf-f9bd-4302-9132-330a2adf122e,Aspirations Support Bristol Ltd,n/a,Chronically ill;Disabled;Lonely;Residential care;Disabilities and special needs support;Help with care;Parenting support;Housing support;Dealing with chronic illness;Emotional wellbeing;Residential care;Somewhere to live;Community facilities;Sheltered housing;Short breaks;Day centres,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+9413a2b0-9060-4057-b514-7aca0df392f2,Aspire Project,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+ad32ebcc-9e42-4e70-8eba-90e24f6ffe99,ASSERT,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ae868bbc-4eca-4084-b7b3-4baa4a2f64a7,Assertive Contact and Engagement Service (Barton Hill),n/a,Alcohol abuser;Drug user;Gambling addict;Homeless;Mental illness;Separated;Unemployed;Access to advocacy;Housing support;Better health;Improving mental health;Dealing with substance abuse;Emotional wellbeing;Legal advice;Alcohol advice and support;Counselling;Drugs advice and support;Homelessness support,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+e51912f2-774c-4d71-8ae3-4e873db4102b,Assertive Contact and Engagement Service (Knowle West),n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+1f88375c-8ee3-4380-8bf2-32881fe98f8a,Assertive Contact and Engagement Service (Stokes Croft),n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+e3209239-1174-445c-9afe-b51632d8a241,Assertive Contact and Engagement Women's Morning,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,13ad3df1-755d-4f0b-aab0-940bd7d68404,51.4477,-2.58759,[],[],FR,weekly,1,10:00:00
+fee05861-a187-44c1-89bf-29cd59157183,Association for Glycogen Storage Diseases (UK) Limited,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+6ed99f88-02b1-4de7-adbe-a3b5e79b14f1,Association Of Blind Piano Tuners,n/a,Leaving prison;Veteran;Unemployed;Employment;Training and skills;Digital skills;Employment and training initiatives,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+5983f6e2-dcbe-4f8a-8069-0140fbdf553d,Association Of British Sign Language Tutors,n/a,"Special educational needs (SEN);Disabilities and special needs support;Speech, language and communication therapy",n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+8fc1b350-6af8-4c71-935f-553b66a621fc,Association of Child Psychotherapists,n/a,Alternative therapies and treatments,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+0f7d16ce-d95d-43e2-9833-770f307399b9,Association Of Drama,n/a,Lonely;Hobbies and interests;Arts organisations and events,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8d2d9660-a98c-451c-bb1b-1776efd085e4,Association Of Independent Care Advisers,n/a,Chronically ill;Residential care;Dealing with chronic illness;Nursing care;Residential care;Somewhere to live;Adult residential care,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+fd602c87-c306-4a3e-88d1-e977a2c13519,Association of Interchurch Families,n/a,Faith organisations and services,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+f2a349e0-1a06-49fc-a60d-9b32060b51db,Association of Mouth and Foot Painting Artists,n/a,Lonely;Hobbies and interests;Arts organisations and events,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+efe94e93-d7fe-4715-aee3-5653747e950a,Association of Sign Language Interpreters,n/a,"Special educational needs (SEN);Disabilities and special needs support;Speech, language and communication therapy",n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+2b95ad59-0a86-4ef8-9296-da7c21937ccc,Astor Bannerman,n/a,Disabled;Special educational needs (SEN);Care at home;Specialist equipment for disabled people,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+a6c063a3-4f3f-4c1e-8596-2d4c08e4c9b4,Astraline,n/a,Chronically ill;Disabled;Special educational needs (SEN);Dealing with chronic illness;Care at home;Emotional wellbeing;Community alarms and Telecare;Specialist equipment for disabled people,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+d73d2084-b466-4607-9d54-17514cb62be6,At a Loss,n/a,Bereaved;Widowed;Bereavement support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+c00a26fa-de06-466c-8968-5c36feb3a6dd,At Ease,n/a,Business;Business advice,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+118ca67b-6ea4-4bfc-b1e6-7f8e177e3756,Ataxia UK,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+a960911c-892d-4210-8d93-28e10d7f3981,Athena Care Limited,n/a,Chronically ill;Residential care;Child care;Disabilities and special needs support;Help with care;Parenting support;Dealing with chronic illness;Nursing care;Residential care;Somewhere to live;Adult residential care;Short breaks;Residential care for children and young people,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+38ef32df-04ce-41fb-a8e2-05cc6fe3a915,ATR-X Support Group,n/a,Health support groups and organisations,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+6c24cdc3-080e-49b4-a72f-45927ab847a6,ATSAC,n/a,Gambling addict;Mental illness;Separated;Access to advocacy;Improving mental health;Emotional wellbeing;Counselling,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+ffa8cfc8-e2d3-4fda-a826-bb43a44764cb,Aubrey Loverseed - Mobile Hairdresser,n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+6e45d46b-d991-47aa-ba8a-4027fc0cfbb1,Auti.Ms,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+9ab05787-3bca-4502-a53c-e94be79d1c20,Autism Accreditation (National Autistic Society),n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+4a8a5367-9de4-4e2b-ac1f-57ef791d212b,Autism Advice - Bristol,n/a,Health support groups and organisations,883aa7e9-6dad-466c-a178-2f50114084de,51.4471,-2.62224,['age'],"[[18.0, 100.0]]",FR,weekly,1,12:30:00
+1c118eaa-380d-468f-b26d-adbc0ee03b8f,Autism Advice - South Glos,n/a,,900e59a7-dd05-41a5-9af4-812522db9520,51.5356,-2.41396,['age'],"[[18.0, 100.0]]",FR,weekly,1,12:30:00
+2c8a1fac-0044-4e69-a4f8-9b970c65f575,Autism As It Is,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+0e69d94a-a9db-4537-8b1d-52a2969603c9,Autism Independence,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+9f7cfa51-8f3f-495f-9784-1ceca7e63a99,Autism Independent UK,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ce226a71-07d2-45ea-9753-2cc39da89532,Autism Intervention and Communication Specialist & NLP Master Practitioner,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+86424543-4c55-488c-acc7-ca5d49df2218,Autistic Football,n/a,Lonely;Obese or overweight;Better health;Sports and physical activity;Sports club directory,n/a,n/a,n/a,['age'],"[[13.0, 18.0]]",n/a,n/a,n/a,n/a
+d4875f7e-eb60-4bac-88ae-a72234342ac3,Automobile Association Disability Helpline,n/a,Disabled;Special educational needs (SEN);Care at home;Specialist equipment for disabled people,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+bc209cda-8d25-4679-8374-2e07b2e494c6,AVERT,n/a,Better health;HIV / AIDS support for adults,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+d0647aae-6761-433d-aa7c-c8e69309d670,Aviation Health Institute,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+d38270eb-cd66-4765-9b24-fd41b885b0bc,AvinuCare,n/a,Chronically ill;Dealing with chronic illness;Care at home;Care at home,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+94774282-98de-461d-8b0a-a84fdc6ffdf3,Avon and Somerset Constabulary - Headquarters,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+23b9e7d6-9b7f-4ccc-a383-e2a5a290bc5c,Avon and Somerset Sexual Violence Consortium,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+dd67d3ea-c6c6-49b3-a631-28524958983e,Avon and Wiltshire Mental Health Partnership NHS Trust,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+e6f61dbd-1376-41b0-a03e-c4d6827aa33f,Avon Area Ramblers,n/a,Lonely;Retired;Open spaces;Better health;Losing weight/Healthy eating;Sports and physical activity;Outdoor activities,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+31a8cc49-d5b5-4f0d-ba7f-3930c3da8fbb,Avon Breast Screening,n/a,Health support groups and organisations,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+621483a0-b024-4b2b-bf4f-3fc307a60b7f,Avon Chlamydia Screening Programme,n/a,Obese or overweight;Better health;Dealing with substance abuse;Losing weight/Healthy eating;Health advice,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+e0002d2b-3da7-4246-b47e-441905437d77,Avon Counselling and Psychotherapy Service,n/a,Gambling addict;Mental illness;Separated;Access to advocacy;Improving mental health;Emotional wellbeing;Counselling,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+bcdde7a4-64f3-49fd-8383-10fa0055f680,Avon Fire and Rescue Service,n/a,Safe living environment;Fire risk assessment in residential property,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+d593a993-0a1a-4f2f-96a3-106987788cbd,Avon Gorge & Downs Wildlife Project,n/a,Open spaces;Countryside conservation,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+9a643f9b-964b-442d-87f8-137155b3fd82,Avon Harmony,n/a,Lonely;Hobbies and interests;Arts organisations and events,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+e0d5e9fa-569c-4f23-8f1b-ae6890d394f3,Avon Home Carers Ltd.,n/a,Chronically ill;Dealing with chronic illness;Care at home;Care at home,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+fc92117e-64fa-4ffd-b6f5-9dee45bb14d0,Avon Jets Badminton Club,n/a,,1427eaab-5788-4340-ad98-d8a4874fd8f5,51.5362,-2.5457,['age'],"[[18.0, 100.0]]",TH,weekly,1,19:00:00
+b955c66c-a1e7-4016-a2fe-aa7359fa9079,Avon Jets Junior Badminton Club,n/a,,1427eaab-5788-4340-ad98-d8a4874fd8f5,51.5362,-2.5457,['age'],"[[13.0, 18.0]]",TH,weekly,1,17:45:00
+79c74bd9-5a4b-4a62-b7d7-ffc501486083,Avon Local History and Archaeology,n/a,Hobby and interest classes and groups,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+5e43f950-138c-4dd2-9faa-59e763e72bbd,Avon Lodge Care Centre,n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+533b6016-881e-4c7b-bf96-16efab6bb30e,Avon Riding Centre for the Disabled Ltd,n/a,Lonely;Retired;Open spaces;Better health;Losing weight/Healthy eating;Sports and physical activity;Outdoor activities;Hobby and interest classes and groups,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+bd75c4e9-0e2b-468d-b9b3-2ff1e46ca608,Avon Stairlifts,n/a,Chronically ill;Disabled;Disabilities and special needs support;Dealing with chronic illness;Care at home;Home adaptatations and aids,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+0e90eebf-b8a7-49a7-b9e2-efc1f968d1af,Avon Talking Magazine - the FREE sound magazine for the blind and partially sighted,n/a,Disabled;Special educational needs (SEN);Care at home;Specialist equipment for disabled people,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+39781f10-bd7b-413c-a148-be05a996907c,Avon Timberland Trail,n/a,Lonely;Retired;Open spaces;Better health;Losing weight/Healthy eating;Sports and physical activity;Outdoor activities,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+e749ee2a-f946-4754-8186-21dfb2df0a58,Avon Trans People,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3538d861-6d05-4c49-b566-cbd99591d4a1,Avon Valley Adventure and Wildlife Parks,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+112aea54-c439-4856-bc02-9eb8c224a6b7,Avon Valley Care Home,n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+8cf274cc-cb2c-490d-97cc-699dbb572639,Avon Valley Landscapes,n/a,Home and garden care and maintenance,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+0b421c79-db76-4223-8630-deb7c6aa5962,Avon Valley Steam Railway,n/a,Lonely;Tourist or visitor;Hobbies and interests;Local attractions,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+c69dbeff-f598-4616-ac1e-7663d582894e,Avon Wildlife Trust,n/a,Open spaces;Hobbies and interests;Nature reserves,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+df66efed-c27d-4134-ac82-217d583678c1,Avonmouth after school club,n/a,,ea85cffa-d469-44aa-9408-0ae896db474c,51.5001993,-2.6983326,"['age', 'age']","[[0.0, 13.0], [13.0, 18.0]]",TH,weekly,1,16:45:00
+50fc9182-b842-44a4-9930-162172f9aa78,Avonmouth Children’s Centre,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+823d9d9f-0cb3-46eb-8bb9-e77430fc80fc,Avonmouth Community Centre Association,n/a,Hobby and interest classes and groups,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+fbe982fb-0bc1-412b-b097-b0be672ba7ad,Avonmouth Community Centre Association Lunch Club,n/a,Chronically ill;Disabled;Lonely;Emotional wellbeing;Community facilities;Day centres,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+260d1089-7251-4dd8-ad3b-5f9b848312ef,Avonmouth Library,n/a,Community facilities;Library facilities,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+34b1d80f-ffb2-458f-ab04-861f70eedaf6,Avonmouth Pharmacy,n/a,Pharmacies,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+0db36cbb-442a-4321-a692-177c8251046c,"AWP Service User, Carer & Public Involvement",n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+c38dae37-2c9e-4859-8335-9046b7a9711f,AWP South Gloucestershire Adult Recovery Services,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3b294327-9be1-489f-a34f-f7c77f0ce9cc,AWP South Gloucestershire Early Intervention in Psychosis,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+da74e6c9-822e-411b-a73e-a3c37374a721,AWP South Gloucestershire Intensive Support Team,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3fd9190b-0f1f-4712-bb19-863df7136dd0,AWP South Gloucestershire Psychological Therapies Service,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+61367c2a-ebbe-499d-bce3-a4f8cc08b662,B & S Healthcare,n/a,Chronically ill;Dealing with chronic illness;Care at home;Care at home,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+6f3316ec-50a9-4376-b356-ee7554f180c3,b.friend (Bridges for Communities),n/a,Social clubs and groups,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+20927626-93af-43ae-b318-b09999bad081,B:Active Community Exercise,n/a,Lonely;Retired;Evening classes;Better health;Losing weight/Healthy eating;Sports and physical activity;Exercise and fitness classes,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+d45de7ea-844e-44d2-9c72-b8e638d48313,Babel Babies,n/a,Lonely;Evening classes;Hobbies and interests;Arts  and creative classes,f0328c94-51ee-4f51-a3aa-e81395f290cf,51.4619,-2.56327,['age'],"[[0.0, 13.0]]",FR,weekly,1,10:00:00
+75958da4-0f73-4030-ae8f-74a68b81e0dd,Babes @ Zion Breastfeeding Support Group,n/a,Lonely;Parent;Parenting support;Family support groups,e4e54e5c-2224-4eb1-a1c4-670703172fb4,51.4267,-2.61332,[],[],FR,weekly,1,13:00:00
+9b047c91-f8c1-468e-aac6-18bbde05b33d,Baby and Toddler Group,n/a,Lonely;Parent;Nursery education;Special educational needs (SEN);Child care;Parenting support;Children's centres,f0328c94-51ee-4f51-a3aa-e81395f290cf,51.4619,-2.56327,['age'],"[[0.0, 13.0]]",MO,weekly,1,09:30:00
+b335af50-bbe9-447e-bc01-74258ff4d6d6,Baby Bounce & Rhyme (Central Library),n/a,Children's libraries,af1c3a91-12fc-4180-8dcd-53a1746ccbd7,51.4515,-2.60237,['age'],"[[0.0, 13.0]]",TU,weekly,1,10:00:00
+c2b0c39d-76d4-4a88-91d8-2a1836ddd93f,Baby Bounce & Rhyme (Wick Road),n/a,Children's libraries,2211ae41-34cc-400c-8ab4-464ae6d5f366,51.4385,-2.55163,['age'],"[[0.0, 13.0]]",2:WE,monthly,2,10:30:00
+d3b5f613-b0f2-48f8-9b2b-f3d979280734,Baby Group,n/a,,2be478d1-30da-434b-a13e-95120113227c,51.4137881,-2.5653334,[],[],WE,weekly,1,10:00:00
+d3bbc168-0845-423a-a1fe-a0aeeeafb850,Baby Group,n/a,,778e1c5c-b493-49c1-8a5d-976960102bc2,51.4129041,-2.5516884,[],[],TU,weekly,1,10:00:00
+f049b7f8-2a4b-4d1c-ad6d-f13b2af5fc0c,Baby Sensory - Early Learning for Babies (Emersons Green),n/a,,16f8cfb3-93fc-4704-9ace-0feb706e73d8,51.4957,-2.47757,[],[],TU,weekly,1,09:45:00
+bcc4ca1f-52bc-4ed0-bca4-d6283fd7d4c5,BabyCalm,n/a,Lonely;Parent;Pregnant;Ante natal care;Parenting support;Better health;Family support groups;Midwifery and maternity services,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+4c982a1f-57d3-43db-970b-cad0cb7a1eb6,BackCare,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+f8580b7a-8f6d-4233-ab05-9f2cf5e4e922,Badgers Forest School,n/a,Open spaces;Community facilities;Outdoor play facilities,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+824bcee1-aa0d-4b9a-8e59-628dca2a7c2b,Badgers House Care Home,n/a,Chronically ill;Residential care;Dealing with chronic illness;Nursing care;Residential care;Somewhere to live;Adult residential care,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+b70a3c26-b2fc-4855-8e14-3d46d7f9a285,Badminton - Open Coach Sessions - For Mental Health,n/a,,f3d5ae68-de06-40bf-b858-f92790a483dc,51.4134575,-2.584818,['age'],"[[18.0, 100.0]]",MO,weekly,1,15:00:00
+a441bab8-b0a7-41fc-aed3-126670890cc0,Badminton Gardens Extra Care Housing Scheme,n/a,Chronically ill;Residential care;Disabilities and special needs support;Housing support;Dealing with chronic illness;Residential care;Somewhere to live;Sheltered housing,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+be72e494-9472-4cac-ba5a-be7481108731,Baggator,n/a,Isolated;Lonely;Special educational needs (SEN);Youth support;Emotional wellbeing;Sports and physical activity;Community facilities;Young people's drop in activities,n/a,n/a,n/a,['age'],"[[13.0, 18.0]]",n/a,n/a,n/a,n/a
+f1b00e50-3901-429d-9476-4c4d150340f5,Baileys Court Activity Centre,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+b05696b3-8780-4a2e-9dc5-8e4b4cfe6e9b,Ballet,n/a,,ea85cffa-d469-44aa-9408-0ae896db474c,51.5001993,-2.6983326,['age'],"[[0.0, 13.0]]",FR,weekly,1,16:00:00
+73dcfd27-f32f-4be6-9f14-e52d3a85316a,Bamfield Lodge Care Home,n/a,Chronically ill;Residential care;Dealing with chronic illness;Nursing care;Residential care;Somewhere to live;Adult residential care,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+ca8e0788-e2d2-436c-ba08-ff3d96f88657,BAND Ltd,n/a,Lonely;Parent;Child care;Childminders;Childminding,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+132d98b3-5562-4f04-8314-f01fe0fb08c6,Bar Pro Bono Unit,n/a,Unemployed;Legal advice,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+ed0f202e-7f35-45f4-bd81-cef53b71ad9b,Barcan + Kirby Family Mediation,n/a,Lonely;Parent;Parenting support;Family support groups,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+317f9348-e778-459c-bd45-6add637fb927,Barchester's Charitable Foundation,n/a,Grants for voluntary organisations,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+5576ce16-2c65-49f9-a862-99a749b02eb3,barefoot mum,n/a,Lonely;Retired;Evening classes;Better health;Losing weight/Healthy eating;Sports and physical activity;Exercise and fitness classes,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+8065991f-52dd-498d-acea-567769163155,Barnardo's (Midlands & South West),n/a,In danger;Isolated;Leaving care;Lonely;Looked after child;Obese or overweight;Parent;Special educational needs (SEN);Child protection;Parenting support;Youth support;Better health;Dealing with substance abuse;Emotional wellbeing;Losing weight/Healthy eating;Sports and physical activity;Community facilities;Child protection;Support for young people leaving care;Family support groups;Health advice;Young people's drop in activities,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+139943ef-f1e7-4282-9b4b-0d7f9edb332d,Barnardos Against Sexual Exploitation,n/a,,n/a,n/a,n/a,['age'],"[[13.0, 18.0]]",n/a,n/a,n/a,n/a
+ae20ac25-6c45-4fd8-b775-a1ff3bd4f653,Barton Hill Settlement,n/a,Lonely;Parent;Parenting support;Family support groups,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+9417cf26-1da8-4e91-ab45-4ea2dcabe404,Bath Opportunity Pre-School,n/a,Lonely;Parent;Nursery education;School places;Child care;Parenting support;Nursery school places;Family support groups,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+10c99615-f53b-49aa-8af2-c70a030a434b,Bathampton Angling Association,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+da204c4e-58f9-4cb8-9720-db62a476c944,Batten Disease Family Association,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+0fa8af72-e36a-405e-8cd8-ac5c86a37dea,Battle Against Tranquillisers,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+6a86d469-af03-4a61-99af-1a3082676a4f,BAWA Healthcare and Leisure Centre,n/a,Lonely;Obese or overweight;Better health;Losing weight/Healthy eating;Sports and physical activity;Community facilities;Hobbies and interests;Sports facilities,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+94ef427e-5c6a-47da-aef5-ed8e4134ba86,BBC Action Line,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+db6ce06b-029b-46b6-ac4c-45208f8cd10b,BBS plumbing & heating supplies,n/a,Chronically ill;Disabled;Disabilities and special needs support;Dealing with chronic illness;Care at home;Home adaptatations and aids,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3e597ef1-527c-439c-a3f3-45aed4b3ff1d,BCMA,n/a,Alternative therapies and treatments,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+b391fa5a-c3d1-4675-8ea1-78c8abb17f3e,BDA Benevolent Fund,n/a,Financial advice and support,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+1e34571e-2862-409b-a0f1-efaaccbee512,Be Empowered Farm Futures,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+b8ddc581-aeed-462b-95fe-07e966245595,Be Mindful Online,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+276f32c9-9106-420b-a1f0-94764bf294dd,Be Smoke Free - Live Well Bristol,n/a,Smoker;Better health;Dealing with substance abuse;Stopping smoking;Stopping smoking,n/a,n/a,n/a,"['age', 'age']","[[18.0, 100.0], [18.0, 100.0]]",n/a,n/a,n/a,n/a
+6ab1f10a-dbd8-4c6f-8cbc-0ab449c134b1,BEAT - The Eating Disorder Charity,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+6a2214da-62b6-4f1c-84fa-b50a68af9032,Beating the Blues,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+f8c4fd85-7eaf-42fa-a6b0-39480e5fdda5,Beaufort Badminton Club,n/a,Lonely;Obese or overweight;Better health;Sports and physical activity;Sports club directory,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+3438d0c5-a259-41fe-ba01-b3eea2b35762,Beaufort Grange Care Home,n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+742900c6-1c11-4aa2-9c76-1fe3c0dbee60,Beaumont Trust,n/a,Lonely;Parent;Parenting support;Family support groups,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+ea8452ca-6b83-4aef-a3cd-24f789997010,Beavers,n/a,Isolated;Lonely;Special educational needs (SEN);Youth support;Sports and physical activity;Community facilities;Young people's organised activities,b6425198-844e-410f-aaca-46b4dea5f04b,51.5016535,-2.6599863,[],[],FR,weekly,1,18:00:00
+7a5d980d-d59d-4703-8b30-360de64000e5,Beaverscapes,n/a,,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+957f3092-9251-4889-8e7d-b221f484dbf5,BeBold,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8da8eb2c-d2a8-4863-a491-a0fbff7b5a35,Beckwith-Wiedemann Syndrome Support Group,n/a,Health support groups and organisations,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+710d87ea-253a-4e65-8209-eef14642a819,Bedminster Family Practice,n/a,GP's and surgeries,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+606e1c4a-93f7-4c97-ab4c-80c6134afc98,Bedminster Library,n/a,Community facilities;Library facilities,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8a362cfd-b9d5-47a1-982c-6adf37b24da7,Bedminster Line Dancing for over 55s,n/a,Lonely;Retired;Evening classes;Better health;Losing weight/Healthy eating;Sports and physical activity;Exercise and fitness classes,a914df31-fb91-4b22-9bb4-11122e09381e,51.4432,-2.59918,['age'],"[[65.0, 100.0]]",FR,weekly,1,13:30:00
+f82b51d5-d1e1-47fb-bbcb-ca6fc4190a41,Bedminster Pharmacy,n/a,Pharmacies,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+ece5ffe2-a8bb-4238-8895-6aaea21d9434,Beechwood Medical Practice,n/a,GP's and surgeries,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8e8d76ab-dc5d-40b2-8286-a28d04fdec70,Begbrook Green Park,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+dbdbb388-f944-4666-8bb4-24789827a513,Beginners Line Dancing – Henbury and Brentry,n/a,,b3a7e26f-59f3-4593-aa44-319939525263,51.5096445,-2.6207992,"['age', 'age']","[[18.0, 100.0], [65.0, 100.0]]",WE,weekly,1,13:15:00
+aefefa41-ce77-46b2-8a14-68729bb5e4db,Beginners Yoga,n/a,,c7541070-ab5e-423b-a8f0-c6b0e7d8615c,51.463252,-2.55083,['age'],"[[18.0, 100.0]]",TH,weekly,1,19:00:00
+a4aa93e7-099b-4527-b635-1bd7d253d52e,Beloved,n/a,Health support groups and organisations,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+e86e4526-49c1-493d-b8e7-ac54f3623401,Belvedere Lodge Residential Care Home,n/a,Chronically ill;Residential care;Dealing with chronic illness;Nursing care;Residential care;Somewhere to live;Adult residential care,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+c24dbd06-ae8b-4555-8fa3-71497770d00a,Belvedere Lodge Residential Care Home,n/a,Chronically ill;Residential care;Dealing with chronic illness;Nursing care;Residential care;Somewhere to live;Adult residential care,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+af1db406-e766-4dfd-adce-bb206e1d6a16,Bendrigg Trust - Outdoor Learning For People With Disabilities and Special Needs,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+2a1cc460-eaa5-4542-b8a8-9535925f5198,Benefits Advice (Henbury),n/a,Financial difficulties;In debt;Leaving prison;Low income;Unemployed;Financial support;Emotional wellbeing;Benefits advice and assessment,bd63e286-5e25-49d2-bfa9-2c3b57359c8e,51.50947031,-2.620244622,['age'],"[[18.0, 100.0]]",1:WE,monthly,1,11:30:00
+8849454b-6e96-408e-be03-87d3d9af25f6,Bereaved by Suicide Support Group,n/a,Bereaved;Widowed;Bereavement support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+8273fdb7-1095-429c-96e5-a048cb40212f,Bereavement Advice Centre,n/a,Bereaved;Widowed;Bereavement support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+51031fce-149c-46cf-a9d8-780eecbf5d28,Bereavement Through Addiction,n/a,Alcohol abuser;Drug user;Bereaved;Widowed;Better health;Dealing with substance abuse;Bereavement support;Alcohol advice and support;Drugs advice and support,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+4d1f2ab4-c8a7-4bd5-bb40-5dbc781b3a44,Berkeley Home Health Southwest - live-in and home care services,n/a,,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+6a033d27-66af-425b-8769-5c97fe56e158,Berkeley Therapy,n/a,Alternative therapies and treatments,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+2d047fb9-2f45-45b9-afb8-edc39c39b490,Bethany Home Trust,n/a,,n/a,n/a,n/a,['age'],"[[65.0, 100.0]]",n/a,n/a,n/a,n/a
+7bf044ef-6825-4209-b367-afdfc82acb4f,Bethany Southmead Baptist Church,n/a,Faith organisations and services,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+46bbffe9-9099-4106-a708-8b35f0576893,Bethesda Computer Club 55+,n/a,Library computers and the internet,cfd5488d-14fc-41f7-b72a-c2a2cd09d6fd,51.459,-2.55535,['age'],"[[65.0, 100.0]]",TH,weekly,1,10:00:00
+bedb59d9-cefc-444a-8e1a-314b3d83607a,Bethesda Methodist Church,n/a,Faith organisations and services,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+73e625c5-53ab-41e0-8885-41895007ce9e,Better Breathing,n/a,Lonely;Retired;Evening classes;Better health;Losing weight/Healthy eating;Sports and physical activity;Exercise and fitness classes,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+351457dc-65c6-48e7-9637-3805857b2d19,Better by Bike,n/a,Non-car driver;Safe roads;Cycle training,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+eee8ebea-be2c-4aa7-ac4e-57bc9f72ad3a,BGS Sports and Leisure Centre,n/a,Lonely;Obese or overweight;Better health;Losing weight/Healthy eating;Sports and physical activity;Community facilities;Hobbies and interests;Sports facilities,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+182934a9-a95c-4d55-bb1e-e1fd483aa11e,Bhogal Dispensing Chemist,n/a,Pharmacies,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+7d4327c2-4fc7-4b3d-af7f-4598e62ce825,Bibic,n/a,Health support groups and organisations,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+0bcec1d9-68e2-4755-b332-8ed640254abd,Big Deal,n/a,,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+28a7c2cc-3537-4cb1-a764-5dd64f4136fb,Big Local Steering Group,n/a,Community engagement,b6425198-844e-410f-aaca-46b4dea5f04b,51.5016535,-2.6599863,[],[],,monthly,1,13:00:00
+4452e3a5-fc15-4efd-ae26-8c198eca04c6,Bike Minded,n/a,Disabled;Mental illness;Non-car driver;Safe roads;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support;Cycle training,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
+04e35571-a55c-4511-af79-110d71a6eca2,Bikeability (Bristol),n/a,Non-car driver;Safe roads;Cycle training,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+a3ccdbca-c2ef-40c0-814c-d69773990ed8,Bikeability (South Gloucestershire),n/a,,n/a,n/a,n/a,['age'],"[[0.0, 13.0]]",n/a,n/a,n/a,n/a
+21acdf2e-ca3d-49e0-80c5-16099e2931b1,Bingham Day Services,n/a,Chronically ill;Disabled;Lonely;Emotional wellbeing;Community facilities;Day centres,n/a,n/a,n/a,['age'],"[[18.0, 100.0]]",n/a,n/a,n/a,n/a
+8e0f5d8a-9b09-4775-b0a1-7b92d415d340,Bingo,n/a,Hobby and interest classes and groups,76ef12c9-6a7c-4838-98f2-87060595c49f,51.5227,-2.42613,['age'],"[[18.0, 100.0]]",SU,weekly,1,19:00:00
+72164ae9-adf2-43f5-b259-6e7f4ea17e3e,Bingo Club - Hanham - Weds Eve,n/a,,80b26ab3-f5ad-48eb-96a5-c9dedc3b3f0c,51.4484,-2.51487,['age'],"[[18.0, 100.0]]",WE,weekly,1,19:00:00
+b2fac969-9c1a-4407-b821-5b0511a48aa3,Bipolar UK,n/a,Disabled;Mental illness;Better health;Dealing with chronic illness;Improving mental health;Emotional wellbeing;Mental health support,n/a,n/a,n/a,[],[],n/a,n/a,n/a,n/a
