@@ -1,0 +1,24 @@
+name,type,id,x,y,grid_ref,inlet_height_metres,pollutants_monitored,monitoring_technique,in_aqma,relevant_exposure,dist,dist_to_kerb,worst_case,notes,Grid ref2,Grid ref3,Grid ref4,Lat,Long
+"Bridgetown Hill, Totnes",Road side,BHN0X,81053,60488,SX8105360488,2.0,NO2,Chemiluminescent analyser,Yes,No,10,2,No,NO DATA AVAILABLE THIS YEAR,SX8105360488,281053,60488,50.43216,-3.6761272
+"Bridgetown Hill, Totnes",Road side,BHPM,81053,60488,SX8105360488,2.0,PM10,Osiris,Yes,No,10,2,No,,SX8105360488,281053,60488,50.43216,-3.6761272
+Queens Tce.,Roadside,,80085,60765,SX8008560765,1.5,NO2,Diffusion tube,Yes,Yes,,5,Yes,,SX8008560765,280085,60765,50.434453,-3.689839
+Barn Close,Suburban,,79981,60865,SX7998160865,2.0,NO2,Diffusion tube,Yes,Yes,,8,No,,SX7998160865,279981,60865,50.43533,-3.6913348
+Puddavine,Suburban,,79612,61407,SX7961261407,2.5,NO2,Diffusion tube,Yes,Yes,,2,Yes,,SX7961261407,279612,61407,50.440127,-3.6967025
+Devon Ceramics,Kerbside,,80246,60715,SX8024660715,2.5,NO2,Diffusion tube,Yes,No,5,1,Yes,,SX8024660715,280246,60715,50.434036,-3.6875571
+Bridgetown  Hill terrace,Kerbside,,81097,60510,SX8109760510,2.5,NO2,Diffusion tube,Yes,Yes,,1,Yes,,SX8109760510,281097,60510,50.432366,-3.6755149
+Bridgetown Hill bottom,Kerbside,,80920,60387,SX8092060387,2.5,NO2,Diffusion tube,Yes,No,2,1,Yes,,SX8092060387,280920,60387,50.431225,-3.6779669
+Bridgetown Hill Semi,Roadside,,80962,60381,SX8096260381,1.5,NO2,Diffusion tube,Yes,Yes,,10,No,,SX8096260381,280962,60381,50.431179,-3.6773739
+Bridgetown Hill House,Roadside,,81000,60461,SX8100060461,1.5,NO2,Diffusion tube,Yes,Yes,,3,Yes,,SX8100060461,281000,60461,50.431906,-3.6768645
+Bridgetown Hill bus,Kerbside,,81063,60493,SX8106360493,2.5,NO2,Diffusion tube,Yes,Yes,,1,Yes,,SX8106360493,281063,60493,50.432207,-3.6759881
+Bridgetown corner,Kerbside,,,,,2.5,NO2,Diffusion tube,No,Yes,,1,Yes,,,,,,
+Bridgetown pub,Kerbside,,,,,2.5,NO2,Diffusion tube,No,YES,,1,Yes,,,,,,
+End West-ern Road,Kerbside,,63313,56011,SX6331356011,2.5,NO2,Diffusion tube,Yes,Yes,,1,Yes,,SX6331356011,263313,56011,50.388055,-3.9241349
+Western Road video,Kerbside,,63166,55966,SX6316655966,2.5,NO2,Diffusion tube,Yes,Yes,,1,Yes,,SX6316655966,263166,55966,50.387616,-3.9261851
+Western Road villas,Roadside,,63093,55946,SX6309355946,1.5,NO2,Diffusion tube,Yes,Yes,,5,No,,SX6309355946,263093,55946,50.387419,-3.9272041
+Western Road Imperial,Kerbside,,63192,55989,SX6319255989,2.5,NO2,Diffusion tube,Yes,Yes,,1,No,,SX6319255989,263192,55989,50.387829,-3.9258279
+Western Road terrace,Kerbside,,63220,55981,SX6322055981,2.5,NO2,Diffusion tube,Yes,Yes,,1,Yes,,SX6322055981,263220,55981,50.387763,-3.9254314
+Dean Prior Farm,Roadside,,72956,63476,SX7295663476,1.5,NO2,Diffusion tube,No,No,5,3,No,,SX7295663476,272956,63476,50.45732,-3.7910895
+Dean Prior B,Roadside,,72995,63484,SX7299563484,1.5,NO2,Diffusion tube,Yes,Yes,,2,Yes,,SX7299563484,272995,63484,50.4574,-3.7905431
+Dean Prior D,Roadside,,73005,63496,SX7300563496,1.5,NO2,Diffusion tube,Yes,Yes,,5,No,,SX7300563496,273005,63496,50.45751,-3.7904063
+True Street junction,Roadside,,82103,60609,SX8210360609,1.5,NO2,Diffusion tube,No,Yes,,1,Yes,,SX8210360609,282103,60609,50.433459,-3.6613879
+Candletree,Roadside,,82066,60579,SX8206660579,2.0,NO2,Diffusion tube,No,No,,1,No,,SX8206660579,282066,60579,50.433182,-3.6618992
